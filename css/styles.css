@@ -8,6 +8,11 @@
 
 a{
   color: #6f7072 !important;
+  padding: 10px;
+}
+
+span{
+  padding: 10px;
 }
 
 .parallax {
