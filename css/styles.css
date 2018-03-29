@@ -1,3 +1,8 @@
+/* Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+* { color:#fff; text-decoration: none;}
+
 .parallax {
     /* The image used */
     background-image: url("../img/code.jpg");
@@ -22,33 +27,4 @@ li a:hover {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
-
-/*TYPE JS*/
-.banner {
-  display: block;
-  min-height: 200px;
-  width: 100%;
-  position: relative;
-}
-.typed_wrap {
-  display: block;
-  border: 4px solid #ecf0f1;
-  width: 290px;
-  height: auto;
-  padding: 30px;
-  
-  /*centers it in the .banner*/
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%,-50%);
-  -moz-transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
-  -o-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-}
-
-.typed_wrap h1 {
-  display: inline;
 }
