@@ -1,12 +1,12 @@
 * { 
     text-align: center;
     text-decoration: none;
-    font-family: 'Raleway', sans-serif, !important;
+    /*font-family: 'Raleway', sans-serif, !important;*/
 }
 
 .wrap{
   font-family: 'Raleway', sans-serif, !important;
-  color: #000 !important;
+  color: #626464 !important;
   margin-top: 10px;
 }
 
@@ -14,7 +14,7 @@
     /* The image used */
     background-image: url("../img/code2.jpg");
     /* Set a specific height */
-    min-height: 500px; 
+    min-height: 750px; 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -24,7 +24,7 @@
 
 /*NAVBAR LINKS*/
 li a:hover {
-    color: #000000 !important;
+    color: #626464 !important;
 }
 
 /* Centered text */
