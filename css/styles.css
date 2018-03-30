@@ -6,18 +6,28 @@
 
 img.displayed {
     display: block;
-    margin-left: 110%;
-    margin-right: 65%;
-    max-height: 80%;
-    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 50%;
+    max-width: 100%;
+}
+
+.card-img-bottom {
+  color: #fff;
+  height: 20rem;
+  background: url(images/img1.jpg) center no-repeat;
+  background-size: cover;
+}
+
+.devPic {
+  max-width: 300px;
 }
 
 p{
     display: inline-block;
-    /*margin-left: 110%;*/
-    margin-right: 65%;
-    /*max-height: 95%;*/
-    /*max-width: 95%;*/
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
 }
 
 .vl {
