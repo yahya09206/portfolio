@@ -4,6 +4,23 @@
     /*font-family: 'Raleway', sans-serif, !important;*/
 }
 
+img.displayed {
+    display: block;
+    margin-left: 65%;
+    /*margin-right: 65%;*/
+    max-height: 500px;
+}
+
+.vl {
+    border-left: 6px solid black;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 110%;
+}
+
+
 .wrap{
   font-family: 'Raleway', sans-serif, !important;
   color: #626464 !important;
