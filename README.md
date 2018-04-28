@@ -4,5 +4,4 @@
 #future add ons
 #finish after spring qtr maybe
 #add more animations
-#use better pictures
 
