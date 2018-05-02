@@ -1,6 +1,6 @@
 # portfolio
 #screenshots
 #descriptions
-#future add ons
+#future add ons for portfolio
 
 
